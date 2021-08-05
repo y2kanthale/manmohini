@@ -1,0 +1,1152 @@
+@media screen and (min-width: 320px) {
+    .navbar-custom {
+        background: rgb(0, 0, 0);
+        border-radius: 510px;
+        width: 26vh !important;
+        text-align: center;
+        height: 32vh;
+        position: absolute;
+        z-index: -9999;
+        top: -22vh;
+    }
+    .navbar-custom img {
+        top: 21vh;
+        position: relative;
+        text-align: center;
+        margin: 0 auto;
+        width: 58%;
+    }
+    .navigation-custom ul li a {
+        font-size: 1.3em !important;
+        color: #ebcd6b;
+        padding: 20px 26px 12px 26px;
+    }
+    .navbar-brand-centered {
+        position: absolute;
+        left: 0%;
+        display: block;
+        width: 215px;
+        text-align: center;
+    }
+    .navbar>.container .navbar-brand-centered,
+    .navbar>.container-fluid .navbar-brand-centered {
+        margin-left: -0vh;
+    }
+    .section-image {
+        position: relative;
+        float: inherit;
+        object-fit: cover;
+        width: 94%;
+        z-index: 1;
+        margin: 0 auto;
+    }
+    .section-content {
+        position: inherit;
+        background: #000;
+        margin: 1em 0.2em 0 0.2em;
+        z-index: -0;
+        padding: 4vh 4vh 2vh 4vh;
+        top: 9px;
+    }
+    .section-image-1 {
+        position: relative;
+        float: right;
+        object-fit: cover;
+        width: 91%;
+        z-index: 1;
+        margin: -54em 1em 0 0em;
+        top: 0;
+    }
+    .section-content-1 {
+        position: relative;
+        background: #000;
+        margin: 0 0em 0 0em;
+        z-index: -0;
+        padding: 4vh 10% 2vh 10%;
+        top: 11em;
+    }
+    .caption-text h1 {
+        font-size:3em;
+    }
+    .caption-text p {
+        font-size: 1.2em;
+    }
+    .testimonial .description {
+        width: 100%;
+        padding: 20px 10px 20px 20px;
+        border: 4px solid #ebcd6b;
+        font-size: 13px;
+        color: #fff;
+        margin: 0;
+        position: relative;
+        z-index: -1;
+        left: 0vh;
+        background: rgba(20, 23, 50, 0.41);
+    }
+    .testimonial .testimonial-content {
+        position: relative;
+        left: 0;
+        top: 0;
+        bottom: 0;
+        vertical-align: middle;
+        align-items: center;
+        display: flex;
+    }
+    .get-in-touch {
+        margin: 0 auto;
+        display: inherit;
+    }
+    .evn-1 {
+        display: inline-block;
+        float: left;
+        width: 33.6vh;
+    }
+    .evn-2,
+    .evn-3,
+    .evn-4,
+    .evn-5 {
+        display: inline-block;
+        float: left;
+        width: 33.4vh;
+    }
+    .section-bg-about {
+        padding: 20vh 0 21vh 0;
+    }
+    .feature-events-box {
+        position: relative;
+        width: 95%;
+    }
+    .feature-events-box-img {
+        width: 55%;
+    }
+    .feature-events-box-img img {
+        position: absolute;
+        width: inherit;
+        z-index: +1;
+        top: 14px;
+        left: 14px;
+    }
+    .feature-events-box-date {
+        position: absolute;
+        right: 1em;
+        top: 1em;
+    }
+    .feature-events-box-content {
+        background: rgb(197, 34, 51);
+        position: relative;
+        padding: 16rem 2em 2em 2em;
+        margin: 0 0 0 0em;
+    }
+    .contact-form-address{
+        width: 70%;
+      }
+}
+
+@media screen and (min-width: 425px) {
+    .navbar-custom {
+        background: rgb(0, 0, 0);
+        border-radius: 510px;
+        width: 26vh !important;
+        text-align: center;
+        height: 32vh;
+        position: absolute;
+        z-index: -9999;
+        top: -22vh;
+    }
+    .navbar-custom img {
+        top: 20vh;
+        position: relative;
+        text-align: center;
+        margin: 0 auto;
+        width: 58%;
+    }
+    .navigation-custom ul li a {
+        font-size: 1.3em !important;
+        color: #ebcd6b;
+        padding: 20px 26px 12px 26px;
+    }
+    .navbar-brand-centered {
+        position: absolute;
+        left: 0%;
+        display: block;
+        width: 215px;
+        text-align: center;
+    }
+    .navbar>.container .navbar-brand-centered,
+    .navbar>.container-fluid .navbar-brand-centered {
+        margin-left: -0vh;
+    }
+    .section-image {
+        position: relative;
+        float: inherit;
+        object-fit: cover;
+        width: 94%;
+        z-index: 1;
+        margin: 0 auto;
+    }
+    .section-content {
+        position: inherit;
+        background: #000;
+        margin: 1em 1.2em 0 1.2em;
+        z-index: -0;
+        padding: 4vh 4vh 2vh 4vh;
+        top: 9px;
+    }
+    .section-image-1 {
+        position: relative;
+        float: right;
+        object-fit: cover;
+        width: 91%;
+        z-index: 1;
+        margin: -45em 1em 0 0em;
+        top: 0;
+    }
+    .section-content-1 {
+        position: relative;
+        background: #000;
+        margin: 0 1em 0 2em;
+        z-index: -0;
+        padding: 4vh 10% 2vh 10%;
+        top: 22em;
+    }
+    .caption-text h1 {
+        font-size: 6em;
+    }
+    .caption-text p {
+        font-size: 1.2em;
+    }
+    .testimonial .description {
+        width: 100%;
+        padding: 20px 10px 20px 20px;
+        border: 4px solid #ebcd6b;
+        font-size: 13px;
+        color: #fff;
+        margin: 0;
+        position: relative;
+        z-index: -1;
+        left: 0vh;
+        background: rgba(20, 23, 50, 0.41);
+    }
+    .testimonial .testimonial-content {
+        position: relative;
+        left: 0;
+        top: 0;
+        bottom: 0;
+        vertical-align: middle;
+        align-items: center;
+        display: flex;
+    }
+    .get-in-touch {
+        margin: 0 auto;
+        display: inherit;
+    }
+    .evn-1 {
+        display: inline-block;
+        float: left;
+        width: 45.6vh;
+    }
+    .evn-2,
+    .evn-3,
+    .evn-4,
+    .evn-5 {
+        display: inline-block;
+        float: left;
+        width: 45.5vh;
+    }
+    .section-bg-about {
+        padding: 27vh 0 90% 0;
+    }
+    .feature-events-box {
+        position: relative;
+        width: 95%;
+    }
+    .feature-events-box-img {
+        width: 60%;
+    }
+    .feature-events-box-img img {
+        position: absolute;
+        width: inherit;
+        z-index: +1;
+        top: 14px;
+        left: 14px;
+    }
+    .feature-events-box-date {
+        position: absolute;
+        right: 1em;
+        top: 1em;
+    }
+    .feature-events-box-content {
+        background: rgb(197, 34, 51);
+        position: relative;
+        padding: 16rem 2em 2em 2em;
+        margin: 0 0 0 0em;
+    }
+    .contact-form-address{
+        width: 100%;
+      }
+}
+
+@media screen and (min-width:481px) {
+    .navbar-custom {
+        background: rgb(0, 0, 0);
+        border-radius: 510px;
+        width: 25vh !important;
+        text-align: center;
+        height: 41vh;
+        position: absolute;
+        z-index: -9999;
+        top: -28vh;
+    }
+    .navbar-custom img {
+        top: 29vh;
+        position: relative;
+        text-align: center;
+        margin: 0 auto;
+        width: 62%;
+    }
+    .navigation-custom ul li a {
+        font-size: 1.3em !important;
+        color: #ebcd6b;
+        padding: 20px 26px 12px 26px;
+    }
+    .navbar-brand-centered {
+        position: absolute;
+        left: 0%;
+        display: block;
+        width: 215px;
+        text-align: center;
+    }
+    .navbar>.container .navbar-brand-centered,
+    .navbar>.container-fluid .navbar-brand-centered {
+        margin-left: -0vh;
+    }
+    .section-image {
+        position: relative;
+        float: inherit;
+        object-fit: cover;
+        width: 94%;
+        z-index: 1;
+        margin: 0 auto;
+    }
+    .section-content {
+        position: inherit;
+        background: #000;
+        margin: 1em 1.2em 0 1.2em;
+        z-index: -0;
+        padding: 4vh 4vh 2vh 4vh;
+        top: 9px;
+    }
+    .section-image-1 {
+        position: relative;
+        float: right;
+        object-fit: cover;
+        width: 42%;
+        z-index: 1;
+        margin: -22em 2.9em 0 0em;
+        top: 0;
+    }
+    .section-content-1 {
+        position: relative;
+        background: #000;
+        margin: 0 25em 0 0em;
+        z-index: -0;
+        padding: 4vh 20% 2vh 4%;
+        top: 9px;
+    }
+    .caption-text h1 {
+        font-size: 8em;
+    }
+    .caption-text p {
+        font-size: 1.2em;
+    }
+    .testimonial .description {
+        width: 100%;
+        padding: 20px 10px 20px 20px;
+        border: 4px solid #ebcd6b;
+        font-size: 13px;
+        color: #fff;
+        margin: 0;
+        position: relative;
+        z-index: -1;
+        left: 0;
+        background: rgba(20, 23, 50, 0.41);
+    }
+    .testimonial .testimonial-content {
+        position: relative;
+        left: 0;
+        top: 0;
+        bottom: 0;
+        vertical-align: middle;
+        align-items: center;
+        display: flex;
+    }
+    .get-in-touch {
+        margin: 0 auto;
+        display: inherit;
+    }
+    .evn-1 {
+        display: inline-block;
+        float: left;
+        width: 100%;
+    }
+    .evn-2,
+    .evn-3,
+    .evn-4,
+    .evn-5 {
+        display: inline-block;
+        float: left;
+        width: 100%;
+    }
+    .section-bg-about {
+        padding: 20vh 0 21vh 0;
+    }
+    .feature-events-box {
+        position: relative;
+        width: 95%;
+    }
+    .feature-events-box-img {
+        width: 65%;
+    }
+    .feature-events-box-img img {
+        position: absolute;
+        width: inherit;
+        z-index: +1;
+        top: -5em;
+        left: 0;
+    }
+    .feature-events-box-date {
+        position: absolute;
+        right: 4em;
+        top: 3em;
+    }
+    .feature-events-box-content {
+        background: rgb(197, 34, 51);
+        position: relative;
+        padding: 22rem 2em 2em 2em;
+        margin: 0 0 0 6em;
+    }
+    .contact-form-address{
+        width: 100%;
+      }
+}
+
+@media only screen and (min-width: 768px) {
+    .navbar-custom {
+        background: rgb(0, 0, 0);
+        border-radius: 510px;
+        width: 41vh !important;
+        text-align: center;
+        height: 41vh;
+        position: absolute;
+        z-index: -9999;
+        top: -21vh;
+    }
+    .navbar-custom img {
+        top: 21vh;
+        position: relative;
+        text-align: center;
+        margin: 0 auto;
+        width: 60%;
+    }
+    .navbar-brand-centered {
+        position: absolute;
+        left: 53%;
+        display: block;
+        width: 215px;
+        text-align: center;
+    }
+    .navbar>.container .navbar-brand-centered,
+    .navbar>.container-fluid .navbar-brand-centered {
+        margin-left: -22vh;
+    }
+    .navigation-custom ul li a {
+        font-size: 1.3em !important;
+        color: #ebcd6b;
+        padding: 40px 10px 30px 10px;
+    }
+    .section-image {
+        position: relative;
+        float: left;
+        object-fit: cover;
+        width: 42%;
+        z-index: 1;
+        margin: 6em 1em 0 0;
+    }
+    .section-content {
+        position: relative;
+        background: #000;
+        margin: 0 0 0 20em;
+        z-index: -0;
+        padding: 4vh 9vh 2vh 7vh;
+        top: 9px;
+    }
+    .section-image-1 {
+        position: relative;
+        float: right;
+        object-fit: cover;
+        width: 42%;
+        z-index: 1;
+        margin: -34em 5.9em 0 0em;
+        top: 0;
+    }
+    .section-content-1 {
+        position: relative;
+        background: #000;
+        margin: 0 25em 0 0em;
+        z-index: -0;
+        padding: 4vh 11% 2vh 4%;
+        top: 9px;
+    }
+    .caption-text h1 {
+        font-size: 8em;
+    }
+    .caption-text p {
+        font-size: 2em;
+    }
+    .testimonial .description {
+        width: 85%;
+        padding: 50px 20px 50px 96px;
+        border: 4px solid #ebcd6b;
+        font-size: 13px;
+        color: #fff;
+        margin: 0;
+        position: relative;
+        z-index: -1;
+        left: 11.9vh;
+        background: rgba(20, 23, 50, 0.41);
+    }
+    .testimonial .testimonial-content {
+        position: absolute;
+        left: 0;
+        top: 0;
+        bottom: 0;
+        vertical-align: middle;
+        align-items: center;
+        display: flex;
+    }
+    .get-in-touch {
+        margin: 0 auto;
+        display: inherit;
+    }
+    .evn-1 {
+        display: inline-block;
+        float: left;
+        width: 37.4%;
+    }
+    .evn-2,
+    .evn-3,
+    .evn-4,
+    .evn-5 {
+        display: inline-block;
+        float: left;
+        width: 29.7%;
+    }
+    .section-bg-about {
+        padding: 20vh 0 21vh 0;
+    }
+    .feature-events-box {
+        position: relative;
+        width: 95%;
+    }
+    .feature-events-box-img {
+        width: 65%;
+    }
+    .feature-events-box-img img {
+        position: absolute;
+        width: inherit;
+        z-index: +1;
+        top: -5em;
+        left: 0;
+    }
+    .feature-events-box-date {
+        position: absolute;
+        right: 4em;
+        top: 3em;
+    }
+    .feature-events-box-content {
+        background: rgb(197, 34, 51);
+        position: relative;
+        padding: 22rem 2em 2em 2em;
+        margin: 0 0 0 6em;
+    }
+    .contact-form-address{
+        width: 100%;
+      }
+}
+
+@media only screen and (min-width: 992px) {
+    .navbar-custom {
+        background: rgb(0, 0, 0);
+        border-radius: 510px;
+        width: 41vh !important;
+        text-align: center;
+        height: 41vh;
+        position: absolute;
+        z-index: -9999;
+        top: -21vh;
+    }
+    .navbar-custom img {
+        top: 21vh;
+        position: relative;
+        text-align: center;
+        margin: 0 auto;
+        width: 60%;
+    }
+    .navigation-custom ul li a {
+        font-size: 1.3em !important;
+        color: #ebcd6b;
+        padding: 40px 26px 30px 26px;
+    }
+    .navbar-brand-centered {
+        position: absolute;
+        left: 53%;
+        display: block;
+        width: 215px;
+        text-align: center;
+    }
+    .navbar>.container .navbar-brand-centered,
+    .navbar>.container-fluid .navbar-brand-centered {
+        margin-left: -22vh;
+    }
+    .section-image {
+        position: relative;
+        float: left;
+        object-fit: cover;
+        width: 42%;
+        z-index: 1;
+        margin: 6em 4em 0 0;
+    }
+    .section-content {
+        position: relative;
+        background: #000;
+        margin: 0 0 0 20em;
+        z-index: -0;
+        padding: 4vh 9vh 2vh 27vh;
+        top: 9px;
+    }
+    .section-image-1 {
+        position: relative;
+        float: right;
+        object-fit: cover;
+        width: 42%;
+        z-index: 1;
+        margin: -22em 2.9em 0 0em;
+        top: 0;
+    }
+    .section-content-1 {
+        position: relative;
+        background: #000;
+        margin: 0 25em 0 0em;
+        z-index: -0;
+        padding: 4vh 20% 2vh 4%;
+        top: 9px;
+    }
+    .caption-text h1 {
+        font-size: 8em;
+    }
+    .caption-text p {
+        font-size: 2em;
+    }
+    .testimonial .description {
+        width: 88%;
+        padding: 50px 20px 50px 96px;
+        border: 4px solid #ebcd6b;
+        font-size: 13px;
+        color: #fff;
+        margin: 0;
+        position: relative;
+        z-index: -1;
+        left: 11.9vh;
+        background: rgba(20, 23, 50, 0.41);
+    }
+    .testimonial .testimonial-content {
+        position: absolute;
+        left: 0;
+        top: 0;
+        bottom: 0;
+        vertical-align: middle;
+        align-items: center;
+        display: flex;
+    }
+    .get-in-touch {
+        margin: 0 auto;
+        display: table;
+    }
+    .evn-1 {
+        display: inline-block;
+        float: left;
+        width: 38.6%;
+    }
+    .evn-2,
+    .evn-3,
+    .evn-4,
+    .evn-5 {
+        display: inline-block;
+        float: left;
+        width: 29.7%;
+    }
+    .section-bg-about {
+        padding: 20vh 0 21vh 0;
+    }
+    .feature-events-box {
+        position: relative;
+        width: 95%;
+    }
+    .feature-events-box-img {
+        width: 65%;
+    }
+    .feature-events-box-img img {
+        position: absolute;
+        width: inherit;
+        z-index: +1;
+        top: -5em;
+        left: 0;
+    }
+    .feature-events-box-date {
+        position: absolute;
+        right: 4em;
+        top: 3em;
+    }
+    .feature-events-box-content {
+        background: rgb(197, 34, 51);
+        position: relative;
+        padding: 16rem 2em 2em 2em;
+        margin: 0 0 0 6em;
+    }
+    .contact-form-address{
+        width: 70%;
+      }
+}
+
+@media only screen and (min-width: 1024px) {
+    .navbar-custom {
+        background: rgb(0, 0, 0);
+        border-radius: 510px;
+        width: 41vh !important;
+        text-align: center;
+        height: 41vh;
+        position: absolute;
+        z-index: -9999;
+        top: -21vh;
+    }
+    .navbar-custom img {
+        top: 21vh;
+        position: relative;
+        text-align: center;
+        margin: 0 auto;
+        width: 60%;
+    }
+    .navigation-custom ul li a {
+        font-size: 1.3em !important;
+        color: #ebcd6b;
+        padding: 40px 26px 30px 26px;
+    }
+    .navbar-brand-centered {
+        position: absolute;
+        left: 53%;
+        display: block;
+        width: 215px;
+        text-align: center;
+    }
+    .navbar>.container .navbar-brand-centered,
+    .navbar>.container-fluid .navbar-brand-centered {
+        margin-left: -23vh;
+    }
+    .section-image {
+        position: relative;
+        float: left;
+        object-fit: cover;
+        width: 42%;
+        z-index: 1;
+        margin: 6em 3em 0 0;
+    }
+    .section-content {
+        position: relative;
+        background: #000;
+        margin: 0 0 0 20em;
+        z-index: -0;
+        padding: 4vh 6vh 2vh 11vh;
+        top: 9px;
+    }
+    .section-image-1 {
+        position: relative;
+        float: right;
+        object-fit: cover;
+        width: 42%;
+        z-index: 1;
+        margin: -22em -0.1em 0 0em;
+        top: 0;
+    }
+    .section-content-1 {
+        position: relative;
+        background: #000;
+        margin: 0 22em 0 0em;
+        z-index: -0;
+        padding: 4vh 15% 2vh 4%;
+        top: 9px;
+    }
+    .caption-text h1 {
+        font-size: 8em;
+    }
+    .caption-text p {
+        font-size: 2em;
+    }
+    .testimonial .description {
+        width: 83%;
+        padding: 50px 20px 50px 96px;
+        border: 4px solid #ebcd6b;
+        font-size: 13px;
+        color: #fff;
+        margin: 0;
+        position: relative;
+        z-index: -1;
+        left: 11.9vh;
+        background: rgba(20, 23, 50, 0.41);
+    }
+    .testimonial .testimonial-content {
+        position: absolute;
+        left: 0;
+        top: 0;
+        bottom: 0;
+        vertical-align: middle;
+        align-items: center;
+        display: flex;
+    }
+    .get-in-touch {
+        margin: 0 auto;
+        display: table;
+    }
+    .evn-1 {
+        display: inline-block;
+        float: left;
+        width: 38.7%;
+    }
+    .evn-2,
+    .evn-3,
+    .evn-4,
+    .evn-5 {
+        display: inline-block;
+        float: left;
+        width: 30.6%;
+    }
+    .section-bg-about {
+        padding: 20vh 0 21vh 0;
+    }
+    .feature-events-box {
+        position: relative;
+        width: 95%;
+    }
+    .feature-events-box-img {
+        width: 65%;
+    }
+    .feature-events-box-img img {
+        position: absolute;
+        width: inherit;
+        z-index: +1;
+        top: -5em;
+        left: 0;
+    }
+    .feature-events-box-date {
+        position: absolute;
+        right: 4em;
+        top: 3em;
+    }
+    .feature-events-box-content {
+        background: rgb(197, 34, 51);
+        position: relative;
+        padding: 16rem 2em 2em 2em;
+        margin: 0 0 0 6em;
+    }
+    .contact-form-address{
+        width: 70%;
+      }
+}
+
+@media only screen and (min-width: 1200px)and (max-width: 1600px) {
+    .navbar-custom {
+        background: rgb(0, 0, 0);
+        border-radius: 510px;
+        width: 41vh !important;
+        text-align: center;
+        height: 41vh;
+        position: absolute;
+        z-index: -9999;
+        top: -21vh;
+    }
+    .navbar-custom img {
+        top: 21vh;
+        position: relative;
+        text-align: center;
+        margin: 0 auto;
+        width: 60%;
+    }
+    .navigation-custom ul li a {
+        font-size: 1.3em !important;
+        color: #ebcd6b;
+        padding: 40px 26px 30px 26px;
+    }
+    .navbar-brand-centered {
+        position: absolute;
+        left: 53%;
+        display: block;
+        width: 215px;
+        text-align: center;
+    }
+    .navbar>.container .navbar-brand-centered,
+    .navbar>.container-fluid .navbar-brand-centered {
+        margin-left: -25vh;
+    }
+    .section-image {
+        position: relative;
+        float: left;
+        object-fit: cover;
+        width: 42%;
+        z-index: 1;
+        margin: 6em 4em 0 0;
+    }
+    .section-content {
+        position: relative;
+        background: #000;
+        margin: 0 0 0 20em;
+        z-index: -0;
+        padding: 4vh 9vh 2vh 27vh;
+        top: 9px;
+    }
+    .section-image-1 {
+        position: relative;
+        float: right;
+        object-fit: cover;
+        width: 42%;
+        z-index: 1;
+        margin: -20em 2.9em 0 0em;
+        top: 0;
+    }
+    .section-content-1 {
+        position: relative;
+        background: #000;
+        margin: 0 25em 0 0em;
+        z-index: -0;
+        padding: 4vh 20% 2vh 4%;
+        top: 9px;
+    }
+    .caption-text h1 {
+        font-size: 6em;
+    }
+    .caption-text p {
+        font-size: 2em;
+    }
+    .testimonial .description {
+        width: 86%;
+        padding: 50px 20px 50px 96px;
+        border: 4px solid #ebcd6b;
+        font-size: 13px;
+        color: #fff;
+        margin: 0;
+        position: relative;
+        z-index: -1;
+        left: 11.9vh;
+        background: rgba(20, 23, 50, 0.41);
+    }
+    .testimonial .testimonial-content {
+        position: absolute;
+        left: 0;
+        top: 0;
+        bottom: 0;
+        vertical-align: middle;
+        align-items: center;
+        display: flex;
+    }
+    .get-in-touch {
+        margin: 0 auto;
+        display: table;
+    }
+    .evn-1 {
+        display: inline-block;
+        float: left;
+        width: 38.6%;
+    }
+    .evn-2,
+    .evn-3,
+    .evn-4,
+    .evn-5 {
+        display: inline-block;
+        float: left;
+        width: 40.8vh;
+    }
+    .section-bg-about {
+        padding: 20vh 0 21vh 0;
+    }
+    .feature-events-box {
+        position: relative;
+        width: 95%;
+    }
+    .feature-events-box-img {
+        width: 65%;
+    }
+    .feature-events-box-img img {
+        position: absolute;
+        width: inherit;
+        z-index: +1;
+        top: -5em;
+        left: 0;
+    }
+    .feature-events-box-date {
+        position: absolute;
+        right: 4em;
+        top: 3em;
+    }
+    .feature-events-box-content {
+        background: rgb(197, 34, 51);
+        position: relative;
+        padding: 16rem 2em 2em 2em;
+        margin: 0 0 0 6em;
+    }
+    .contact-form-address{
+        width: 70%;
+      }
+}
+
+@media only screen and (min-width: 1610px)and (max-width: 2600px) {
+    .navbar-custom {
+        background: rgb(0, 0, 0);
+        border-radius: 510px;
+        width: 41vh !important;
+        text-align: center;
+        height: 41vh;
+        position: absolute;
+        z-index: -9999;
+        top: -23vh;
+    }
+    .navbar-custom img {
+        top: 23vh;
+        position: relative;
+        text-align: center;
+        margin: 0 auto;
+        width: 60%;
+    }
+    .navigation-custom ul li a {
+        font-size: 1.3em !important;
+        color: #ebcd6b;
+        padding: 40px 26px 30px 26px;
+    }
+    .navbar-brand-centered {
+        position: absolute;
+        left: 53%;
+        display: block;
+        width: 215px;
+        text-align: center;
+    }
+    .navbar>.container .navbar-brand-centered,
+    .navbar>.container-fluid .navbar-brand-centered {
+        margin-left: -25vh;
+    }
+    .section-image {
+        position: relative;
+        float: left;
+        object-fit: cover;
+        width: 42%;
+        z-index: 1;
+        margin: 6em 4em 0 0;
+    }
+    .section-content {
+        position: relative;
+        background: #000;
+        margin: 0 0 0 20em;
+        z-index: -0;
+        padding: 4vh 9vh 2vh 27vh;
+        top: 9px;
+    }
+    .section-image-1 {
+        position: relative;
+        float: right;
+        object-fit: cover;
+        width: 42%;
+        z-index: 1;
+        margin: -22em 2.9em 0 0em;
+        top: 0;
+    }
+    .section-content-1 {
+        position: relative;
+        background: #000;
+        margin: 0 25em 0 0em;
+        z-index: -0;
+        padding: 4vh 20% 2vh 4%;
+        top: 9px;
+    }
+    .caption-text h1 {
+        font-size: 8em;
+    }
+    .caption-text p {
+        font-size: 2em;
+    }
+    .testimonial .description {
+        width: 84.6%;
+        padding: 50px 20px 50px 96px;
+        border: 4px solid #ebcd6b;
+        font-size: 13px;
+        color: #fff;
+        margin: 0;
+        position: relative;
+        z-index: -1;
+        left: 11.9vh;
+        background: rgba(20, 23, 50, 0.41);
+    }
+    .testimonial .testimonial-content {
+        position: absolute;
+        left: 0;
+        top: 0;
+        bottom: 0;
+        vertical-align: middle;
+        align-items: center;
+        display: flex;
+        cursor: hand;
+    }
+    .get-in-touch {
+        margin: 0 auto;
+        display: table;
+    }
+    .evn-1 {
+        display: inline-block;
+        float: left;
+        width: 38.6%;
+    }
+    .evn-2,
+    .evn-3,
+    .evn-4,
+    .evn-5 {
+        display: inline-block;
+        float: left;
+        width: 36.7vh;
+    }
+    .section-bg-about {
+        padding: 20vh 0 21vh 0;
+    }
+    .feature-events-box {
+        position: relative;
+        width: 95%;
+    }
+    .feature-events-box-img {
+        width: 65%;
+    }
+    .feature-events-box-img img {
+        position: absolute;
+        width: inherit;
+        z-index: +1;
+        top: -5em;
+        left: 0;
+    }
+    .feature-events-box-date {
+        position: absolute;
+        right: 4em;
+        top: 3em;
+    }
+    .feature-events-box-content {
+        background: rgb(197, 34, 51);
+        position: relative;
+        padding: 16rem 2em 2em 2em;
+        margin: 0 0 0 6em;
+    }
+    .contact-form-address{
+        width: 70%;
+      }
+}
